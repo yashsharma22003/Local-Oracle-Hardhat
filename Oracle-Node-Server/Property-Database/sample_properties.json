@@ -1,0 +1,1504 @@
+{
+    "properties": [
+        {
+            "property_id": "PROP45702",
+            "location": {
+                "address": "56921 Paul Mountains Apt. 015",
+                "city": "Stephanieside",
+                "state": "DE",
+                "country": "USA",
+                "zipcode": "66747",
+                "latitude": "45.53929",
+                "longitude": "-122.38731"
+            },
+            "price_usd": 448450.63,
+            "price_eth": 1.88,
+            "last_updated": "1974-02-26T09:10:54"
+        },
+        {
+            "property_id": "PROP66902",
+            "location": {
+                "address": "786 Mary Landing Suite 618",
+                "city": "Huffmanhaven",
+                "state": "ID",
+                "country": "USA",
+                "zipcode": "89226",
+                "latitude": "33.03699",
+                "longitude": "-117.29198"
+            },
+            "price_usd": 3592091.68,
+            "price_eth": 2.36,
+            "last_updated": "1986-01-08T22:39:13"
+        },
+        {
+            "property_id": "PROP61832",
+            "location": {
+                "address": "13377 Joseph Meadows",
+                "city": "Jesseport",
+                "state": "CO",
+                "country": "USA",
+                "zipcode": "47303",
+                "latitude": "31.12406",
+                "longitude": "-97.90308"
+            },
+            "price_usd": 4867944.33,
+            "price_eth": 0.49,
+            "last_updated": "2002-04-03T15:07:05"
+        },
+        {
+            "property_id": "PROP39967",
+            "location": {
+                "address": "741 Berger Forges Suite 455",
+                "city": "New Michael",
+                "state": "NJ",
+                "country": "USA",
+                "zipcode": "25117",
+                "latitude": "47.4943",
+                "longitude": "-122.24092"
+            },
+            "price_usd": 3371872.62,
+            "price_eth": 1.12,
+            "last_updated": "1972-11-29T17:42:20"
+        },
+        {
+            "property_id": "PROP46399",
+            "location": {
+                "address": "08372 Christopher Flat Apt. 095",
+                "city": "North Jerry",
+                "state": "TX",
+                "country": "USA",
+                "zipcode": "18073",
+                "latitude": "26.68451",
+                "longitude": "-80.66756"
+            },
+            "price_usd": 1807508.98,
+            "price_eth": 2.68,
+            "last_updated": "1982-06-23T09:23:55"
+        },
+        {
+            "property_id": "PROP64578",
+            "location": {
+                "address": "32089 Ingram Via Apt. 260",
+                "city": "Crystalstad",
+                "state": "OR",
+                "country": "USA",
+                "zipcode": "90061",
+                "latitude": "33.45122",
+                "longitude": "-86.99666"
+            },
+            "price_usd": 2099844.84,
+            "price_eth": 2.21,
+            "last_updated": "2010-10-13T21:04:54"
+        },
+        {
+            "property_id": "PROP14297",
+            "location": {
+                "address": "193 Perez Prairie",
+                "city": "North Lisaview",
+                "state": "FL",
+                "country": "USA",
+                "zipcode": "76617",
+                "latitude": "41.15376",
+                "longitude": "-87.88754"
+            },
+            "price_usd": 2883224.61,
+            "price_eth": 2.8,
+            "last_updated": "1978-08-09T23:52:41"
+        },
+        {
+            "property_id": "PROP78973",
+            "location": {
+                "address": "170 Colin Ridges",
+                "city": "Barbaraland",
+                "state": "IN",
+                "country": "USA",
+                "zipcode": "58360",
+                "latitude": "29.84576",
+                "longitude": "-90.10674"
+            },
+            "price_usd": 4922316.2,
+            "price_eth": 2.76,
+            "last_updated": "1985-10-14T10:41:39"
+        },
+        {
+            "property_id": "PROP59295",
+            "location": {
+                "address": "62190 Scott Groves",
+                "city": "West Stephanie",
+                "state": "KS",
+                "country": "USA",
+                "zipcode": "70200",
+                "latitude": "41.0051",
+                "longitude": "-73.78458"
+            },
+            "price_usd": 1829523.33,
+            "price_eth": 0.48,
+            "last_updated": "1997-11-27T04:14:01"
+        },
+        {
+            "property_id": "PROP42067",
+            "location": {
+                "address": "386 Morris Rest",
+                "city": "West Sean",
+                "state": "FL",
+                "country": "USA",
+                "zipcode": "35790",
+                "latitude": "33.98154",
+                "longitude": "-81.23621"
+            },
+            "price_usd": 2671905.73,
+            "price_eth": 0.36,
+            "last_updated": "2006-10-21T17:21:36"
+        },
+        {
+            "property_id": "PROP59225",
+            "location": {
+                "address": "08419 Melissa Terrace",
+                "city": "North David",
+                "state": "MI",
+                "country": "USA",
+                "zipcode": "36848",
+                "latitude": "36.02506",
+                "longitude": "-86.77917"
+            },
+            "price_usd": 3293737.47,
+            "price_eth": 0.8,
+            "last_updated": "2000-03-04T16:11:48"
+        },
+        {
+            "property_id": "PROP35743",
+            "location": {
+                "address": "802 Mary Curve Apt. 830",
+                "city": "Stephanieberg",
+                "state": "AK",
+                "country": "USA",
+                "zipcode": "41878",
+                "latitude": "33.76446",
+                "longitude": "-117.79394"
+            },
+            "price_usd": 3854573.33,
+            "price_eth": 1.34,
+            "last_updated": "1986-05-06T18:58:58"
+        },
+        {
+            "property_id": "PROP33904",
+            "location": {
+                "address": "54767 Singh Fork Apt. 910",
+                "city": "Lake Keith",
+                "state": "NM",
+                "country": "USA",
+                "zipcode": "14315",
+                "latitude": "40.56754",
+                "longitude": "-89.64066"
+            },
+            "price_usd": 1811129.32,
+            "price_eth": 1.88,
+            "last_updated": "1978-02-12T07:50:38"
+        },
+        {
+            "property_id": "PROP98786",
+            "location": {
+                "address": "3074 Clark Track Apt. 753",
+                "city": "Port Rebeccashire",
+                "state": "IA",
+                "country": "USA",
+                "zipcode": "65479",
+                "latitude": "46.32374",
+                "longitude": "-120.00865"
+            },
+            "price_usd": 3822480.22,
+            "price_eth": 2.33,
+            "last_updated": "1998-04-11T08:01:02"
+        },
+        {
+            "property_id": "PROP34317",
+            "location": {
+                "address": "216 Scott Highway",
+                "city": "Aliview",
+                "state": "NE",
+                "country": "USA",
+                "zipcode": "03948",
+                "latitude": "41.24255",
+                "longitude": "-82.61573"
+            },
+            "price_usd": 2157909.49,
+            "price_eth": 2.99,
+            "last_updated": "2017-12-13T05:17:05"
+        },
+        {
+            "property_id": "PROP53581",
+            "location": {
+                "address": "28806 Debbie Cape",
+                "city": "North Matthew",
+                "state": "IN",
+                "country": "USA",
+                "zipcode": "44370",
+                "latitude": "40.63316",
+                "longitude": "-74.13653"
+            },
+            "price_usd": 4316337.53,
+            "price_eth": 2.24,
+            "last_updated": "1980-07-02T04:26:35"
+        },
+        {
+            "property_id": "PROP57509",
+            "location": {
+                "address": "784 Tapia Court Suite 039",
+                "city": "South Misty",
+                "state": "AL",
+                "country": "USA",
+                "zipcode": "40431",
+                "latitude": "40.24537",
+                "longitude": "-75.64963"
+            },
+            "price_usd": 708474.06,
+            "price_eth": 2.51,
+            "last_updated": "1973-05-24T12:34:07"
+        },
+        {
+            "property_id": "PROP42840",
+            "location": {
+                "address": "479 James Fields Suite 682",
+                "city": "New Patriciastad",
+                "state": "NY",
+                "country": "USA",
+                "zipcode": "87378",
+                "latitude": "35.88264",
+                "longitude": "-80.08199"
+            },
+            "price_usd": 4712653.75,
+            "price_eth": 2.73,
+            "last_updated": "1991-01-04T04:49:27"
+        },
+        {
+            "property_id": "PROP34062",
+            "location": {
+                "address": "3418 Virginia Course Suite 245",
+                "city": "Penahaven",
+                "state": "KY",
+                "country": "USA",
+                "zipcode": "20264",
+                "latitude": "40.24537",
+                "longitude": "-75.64963"
+            },
+            "price_usd": 3777933.13,
+            "price_eth": 2.75,
+            "last_updated": "2017-12-03T11:08:10"
+        },
+        {
+            "property_id": "PROP45565",
+            "location": {
+                "address": "4357 Cook Extensions Apt. 972",
+                "city": "Hodgesport",
+                "state": "ID",
+                "country": "USA",
+                "zipcode": "63370",
+                "latitude": "47.80527",
+                "longitude": "-122.24064"
+            },
+            "price_usd": 3841076.9,
+            "price_eth": 2.98,
+            "last_updated": "2014-04-22T07:52:10"
+        },
+        {
+            "property_id": "PROP11022",
+            "location": {
+                "address": "6106 Jimenez Avenue Suite 776",
+                "city": "Arroyoborough",
+                "state": "MD",
+                "country": "USA",
+                "zipcode": "82069",
+                "latitude": "33.54428",
+                "longitude": "-84.23381"
+            },
+            "price_usd": 2259284.56,
+            "price_eth": 1.8,
+            "last_updated": "2024-07-14T13:32:27"
+        },
+        {
+            "property_id": "PROP68253",
+            "location": {
+                "address": "37868 Conway Glen",
+                "city": "East Lucas",
+                "state": "NC",
+                "country": "USA",
+                "zipcode": "31195",
+                "latitude": "38.17492",
+                "longitude": "-122.2608"
+            },
+            "price_usd": 3167078.86,
+            "price_eth": 0.84,
+            "last_updated": "1979-07-21T01:45:56"
+        },
+        {
+            "property_id": "PROP45486",
+            "location": {
+                "address": "67238 Wall Grove Apt. 367",
+                "city": "Jeffreymouth",
+                "state": "VA",
+                "country": "USA",
+                "zipcode": "90525",
+                "latitude": "32.42067",
+                "longitude": "-104.22884"
+            },
+            "price_usd": 2230711.79,
+            "price_eth": 2.67,
+            "last_updated": "1980-11-28T05:22:11"
+        },
+        {
+            "property_id": "PROP91646",
+            "location": {
+                "address": "04252 Washington Coves Apt. 906",
+                "city": "Jeffhaven",
+                "state": "IA",
+                "country": "USA",
+                "zipcode": "27789",
+                "latitude": "46.32374",
+                "longitude": "-120.00865"
+            },
+            "price_usd": 940855.28,
+            "price_eth": 2.13,
+            "last_updated": "1996-09-07T04:04:16"
+        },
+        {
+            "property_id": "PROP50616",
+            "location": {
+                "address": "968 Macdonald Crest Apt. 866",
+                "city": "West Deanna",
+                "state": "VT",
+                "country": "USA",
+                "zipcode": "92221",
+                "latitude": "40.65538",
+                "longitude": "-74.38987"
+            },
+            "price_usd": 3825964.5,
+            "price_eth": 1.39,
+            "last_updated": "1974-07-05T08:32:58"
+        },
+        {
+            "property_id": "PROP32888",
+            "location": {
+                "address": "1168 Gaines Spring",
+                "city": "Damonfort",
+                "state": "CT",
+                "country": "USA",
+                "zipcode": "86803",
+                "latitude": "27.09978",
+                "longitude": "-82.45426"
+            },
+            "price_usd": 549159.83,
+            "price_eth": 2.65,
+            "last_updated": "1974-08-17T23:09:50"
+        },
+        {
+            "property_id": "PROP10125",
+            "location": {
+                "address": "611 Eric Summit Suite 603",
+                "city": "Lisamouth",
+                "state": "OK",
+                "country": "USA",
+                "zipcode": "40336",
+                "latitude": "42.52787",
+                "longitude": "-70.92866"
+            },
+            "price_usd": 4453827.07,
+            "price_eth": 1.65,
+            "last_updated": "1978-10-26T00:40:13"
+        },
+        {
+            "property_id": "PROP90334",
+            "location": {
+                "address": "3029 Devin Ranch",
+                "city": "Jessicafort",
+                "state": "TN",
+                "country": "USA",
+                "zipcode": "42424",
+                "latitude": "37.71715",
+                "longitude": "-122.40433"
+            },
+            "price_usd": 4363753.93,
+            "price_eth": 0.71,
+            "last_updated": "1990-05-30T00:44:43"
+        },
+        {
+            "property_id": "PROP40702",
+            "location": {
+                "address": "4844 Darlene Way Apt. 337",
+                "city": "Lake James",
+                "state": "CO",
+                "country": "USA",
+                "zipcode": "48271",
+                "latitude": "40.94065",
+                "longitude": "-73.99681"
+            },
+            "price_usd": 1118024.03,
+            "price_eth": 2.38,
+            "last_updated": "2005-09-07T13:07:11"
+        },
+        {
+            "property_id": "PROP63200",
+            "location": {
+                "address": "80641 Nicole Neck Suite 754",
+                "city": "South Sheilaberg",
+                "state": "OK",
+                "country": "USA",
+                "zipcode": "06289",
+                "latitude": "43.54072",
+                "longitude": "-116.56346"
+            },
+            "price_usd": 4656313.5,
+            "price_eth": 0.63,
+            "last_updated": "1991-01-08T23:04:04"
+        },
+        {
+            "property_id": "PROP80939",
+            "location": {
+                "address": "841 Wagner Gateway",
+                "city": "Maryburgh",
+                "state": "AK",
+                "country": "USA",
+                "zipcode": "46752",
+                "latitude": "40.65538",
+                "longitude": "-74.38987"
+            },
+            "price_usd": 2615134.69,
+            "price_eth": 2.26,
+            "last_updated": "1997-11-02T05:34:41"
+        },
+        {
+            "property_id": "PROP98901",
+            "location": {
+                "address": "4102 Sheena Shore Suite 546",
+                "city": "Bauerville",
+                "state": "WY",
+                "country": "USA",
+                "zipcode": "46304",
+                "latitude": "41.47892",
+                "longitude": "-87.45476"
+            },
+            "price_usd": 1118863.36,
+            "price_eth": 1.34,
+            "last_updated": "1998-08-27T18:37:37"
+        },
+        {
+            "property_id": "PROP22891",
+            "location": {
+                "address": "7089 Kendra Bypass Apt. 181",
+                "city": "East Jessicafort",
+                "state": "FL",
+                "country": "USA",
+                "zipcode": "84578",
+                "latitude": "26.68451",
+                "longitude": "-80.66756"
+            },
+            "price_usd": 2132621.15,
+            "price_eth": 1.84,
+            "last_updated": "1980-02-25T20:59:30"
+        },
+        {
+            "property_id": "PROP64489",
+            "location": {
+                "address": "62324 Bean Ports Suite 492",
+                "city": "West Stephenstad",
+                "state": "OH",
+                "country": "USA",
+                "zipcode": "77081",
+                "latitude": "34.14251",
+                "longitude": "-118.25508"
+            },
+            "price_usd": 101177.34,
+            "price_eth": 1.51,
+            "last_updated": "2013-05-11T10:01:08"
+        },
+        {
+            "property_id": "PROP24239",
+            "location": {
+                "address": "840 Blake Parks Apt. 954",
+                "city": "Salazarhaven",
+                "state": "CT",
+                "country": "USA",
+                "zipcode": "32267",
+                "latitude": "33.45122",
+                "longitude": "-86.99666"
+            },
+            "price_usd": 3051070.71,
+            "price_eth": 0.63,
+            "last_updated": "2015-06-14T17:24:39"
+        },
+        {
+            "property_id": "PROP12451",
+            "location": {
+                "address": "004 Tyler Well",
+                "city": "Richardville",
+                "state": "MA",
+                "country": "USA",
+                "zipcode": "10294",
+                "latitude": "47.80527",
+                "longitude": "-122.24064"
+            },
+            "price_usd": 2435828.52,
+            "price_eth": 0.36,
+            "last_updated": "2015-03-19T03:40:44"
+        },
+        {
+            "property_id": "PROP46536",
+            "location": {
+                "address": "645 Mary Knolls Suite 911",
+                "city": "South Phillip",
+                "state": "KY",
+                "country": "USA",
+                "zipcode": "90807",
+                "latitude": "39.78504",
+                "longitude": "-85.76942"
+            },
+            "price_usd": 468374.42,
+            "price_eth": 1.27,
+            "last_updated": "1982-11-18T08:04:37"
+        },
+        {
+            "property_id": "PROP93744",
+            "location": {
+                "address": "668 Thomas Points Apt. 414",
+                "city": "East Juliatown",
+                "state": "KY",
+                "country": "USA",
+                "zipcode": "80348",
+                "latitude": "32.9156",
+                "longitude": "-117.14392"
+            },
+            "price_usd": 882409.03,
+            "price_eth": 1.78,
+            "last_updated": "1978-04-18T11:03:34"
+        },
+        {
+            "property_id": "PROP80914",
+            "location": {
+                "address": "6715 Copeland Lake Apt. 770",
+                "city": "Lake Jessicafurt",
+                "state": "MS",
+                "country": "USA",
+                "zipcode": "46562",
+                "latitude": "25.67927",
+                "longitude": "-80.31727"
+            },
+            "price_usd": 1620915.08,
+            "price_eth": 1.2,
+            "last_updated": "2013-06-01T14:26:56"
+        },
+        {
+            "property_id": "PROP17429",
+            "location": {
+                "address": "55081 Amy Camp",
+                "city": "Cristianburgh",
+                "state": "NE",
+                "country": "USA",
+                "zipcode": "67063",
+                "latitude": "34.09668",
+                "longitude": "-117.71978"
+            },
+            "price_usd": 2280917.61,
+            "price_eth": 1.37,
+            "last_updated": "1992-02-10T08:44:52"
+        },
+        {
+            "property_id": "PROP45731",
+            "location": {
+                "address": "289 Perez Forest Suite 613",
+                "city": "South Bradley",
+                "state": "AZ",
+                "country": "USA",
+                "zipcode": "72902",
+                "latitude": "40.65538",
+                "longitude": "-74.38987"
+            },
+            "price_usd": 4002154.74,
+            "price_eth": 0.52,
+            "last_updated": "2000-01-01T04:12:47"
+        },
+        {
+            "property_id": "PROP77315",
+            "location": {
+                "address": "984 Parker Flats Apt. 807",
+                "city": "West Vanessa",
+                "state": "OK",
+                "country": "USA",
+                "zipcode": "93379",
+                "latitude": "32.35126",
+                "longitude": "-95.30106"
+            },
+            "price_usd": 428529.11,
+            "price_eth": 2.3,
+            "last_updated": "1973-05-14T16:22:10"
+        },
+        {
+            "property_id": "PROP69032",
+            "location": {
+                "address": "611 Brenda Harbors Suite 205",
+                "city": "New Stephanie",
+                "state": "SC",
+                "country": "USA",
+                "zipcode": "65272",
+                "latitude": "41.66394",
+                "longitude": "-83.55521"
+            },
+            "price_usd": 3641127.9,
+            "price_eth": 0.18,
+            "last_updated": "1989-06-13T10:06:04"
+        },
+        {
+            "property_id": "PROP89367",
+            "location": {
+                "address": "6139 Michael Run",
+                "city": "Wardborough",
+                "state": "MD",
+                "country": "USA",
+                "zipcode": "70540",
+                "latitude": "37.60876",
+                "longitude": "-77.37331"
+            },
+            "price_usd": 2679055.02,
+            "price_eth": 2.32,
+            "last_updated": "2016-04-24T21:38:45"
+        },
+        {
+            "property_id": "PROP95588",
+            "location": {
+                "address": "16848 Hays Green Suite 870",
+                "city": "Josephland",
+                "state": "NH",
+                "country": "USA",
+                "zipcode": "56560",
+                "latitude": "41.84364",
+                "longitude": "-87.71255"
+            },
+            "price_usd": 1294751.84,
+            "price_eth": 2.22,
+            "last_updated": "1997-07-20T07:08:43"
+        },
+        {
+            "property_id": "PROP95174",
+            "location": {
+                "address": "9783 Andrew Lock",
+                "city": "New Janetstad",
+                "state": "AZ",
+                "country": "USA",
+                "zipcode": "76590",
+                "latitude": "29.53885",
+                "longitude": "-95.44744"
+            },
+            "price_usd": 2865569.68,
+            "price_eth": 1.57,
+            "last_updated": "2007-04-19T06:20:15"
+        },
+        {
+            "property_id": "PROP14910",
+            "location": {
+                "address": "36593 Morris Roads Suite 492",
+                "city": "Cooperfurt",
+                "state": "SC",
+                "country": "USA",
+                "zipcode": "14530",
+                "latitude": "34.95303",
+                "longitude": "-120.43572"
+            },
+            "price_usd": 4479192.5,
+            "price_eth": 0.15,
+            "last_updated": "1998-05-29T11:40:25"
+        },
+        {
+            "property_id": "PROP31030",
+            "location": {
+                "address": "53023 Bell Pass",
+                "city": "South Miguelborough",
+                "state": "NH",
+                "country": "USA",
+                "zipcode": "14517",
+                "latitude": "38.54491",
+                "longitude": "-121.74052"
+            },
+            "price_usd": 303409.77,
+            "price_eth": 1.73,
+            "last_updated": "2010-07-24T01:40:24"
+        },
+        {
+            "property_id": "PROP52418",
+            "location": {
+                "address": "4022 Margaret Haven",
+                "city": "West Victor",
+                "state": "DC",
+                "country": "USA",
+                "zipcode": "01709",
+                "latitude": "41.75338",
+                "longitude": "-86.11084"
+            },
+            "price_usd": 1434365.13,
+            "price_eth": 1.23,
+            "last_updated": "1995-01-14T09:54:40"
+        },
+        {
+            "property_id": "PROP22932",
+            "location": {
+                "address": "63621 Laurie Loop Apt. 134",
+                "city": "North Andrea",
+                "state": "NE",
+                "country": "USA",
+                "zipcode": "61279",
+                "latitude": "41.54566",
+                "longitude": "-71.29144"
+            },
+            "price_usd": 2630368.09,
+            "price_eth": 1.69,
+            "last_updated": "2003-10-03T16:20:12"
+        },
+        {
+            "property_id": "PROP10460",
+            "location": {
+                "address": "1801 Stevens Trail",
+                "city": "New Amandafort",
+                "state": "SD",
+                "country": "USA",
+                "zipcode": "26923",
+                "latitude": "34.77453",
+                "longitude": "-96.67834"
+            },
+            "price_usd": 4542521.71,
+            "price_eth": 1.65,
+            "last_updated": "2004-12-16T23:33:11"
+        },
+        {
+            "property_id": "PROP24483",
+            "location": {
+                "address": "63876 Kelly Vista",
+                "city": "New Debraborough",
+                "state": "WA",
+                "country": "USA",
+                "zipcode": "41319",
+                "latitude": "33.95015",
+                "longitude": "-118.03917"
+            },
+            "price_usd": 4263273.12,
+            "price_eth": 0.95,
+            "last_updated": "2024-07-23T19:24:53"
+        },
+        {
+            "property_id": "PROP89380",
+            "location": {
+                "address": "26117 Melanie Mountains",
+                "city": "Holmesberg",
+                "state": "CO",
+                "country": "USA",
+                "zipcode": "28803",
+                "latitude": "39.72943",
+                "longitude": "-104.83192"
+            },
+            "price_usd": 3815086.83,
+            "price_eth": 1.16,
+            "last_updated": "1984-06-22T10:16:58"
+        },
+        {
+            "property_id": "PROP67153",
+            "location": {
+                "address": "6908 Brown Field",
+                "city": "East James",
+                "state": "WY",
+                "country": "USA",
+                "zipcode": "37550",
+                "latitude": "39.32011",
+                "longitude": "-76.51552"
+            },
+            "price_usd": 2931095.81,
+            "price_eth": 0.84,
+            "last_updated": "2016-08-27T18:41:51"
+        },
+        {
+            "property_id": "PROP47139",
+            "location": {
+                "address": "7535 Cox Rest Suite 985",
+                "city": "Heatherfurt",
+                "state": "IL",
+                "country": "USA",
+                "zipcode": "72688",
+                "latitude": "33.41012",
+                "longitude": "-91.06177"
+            },
+            "price_usd": 3956247.82,
+            "price_eth": 2.96,
+            "last_updated": "2007-04-20T17:30:12"
+        },
+        {
+            "property_id": "PROP48088",
+            "location": {
+                "address": "109 Randall Street Suite 143",
+                "city": "New Calvinfort",
+                "state": "NM",
+                "country": "USA",
+                "zipcode": "86821",
+                "latitude": "41.72059",
+                "longitude": "-87.70172"
+            },
+            "price_usd": 315291.89,
+            "price_eth": 1.92,
+            "last_updated": "1970-02-08T11:21:54"
+        },
+        {
+            "property_id": "PROP36864",
+            "location": {
+                "address": "4168 Caroline Extension",
+                "city": "West Zachary",
+                "state": "NH",
+                "country": "USA",
+                "zipcode": "02731",
+                "latitude": "39.32011",
+                "longitude": "-76.51552"
+            },
+            "price_usd": 1021765.36,
+            "price_eth": 1.0,
+            "last_updated": "1971-06-07T00:33:21"
+        },
+        {
+            "property_id": "PROP92483",
+            "location": {
+                "address": "173 Gardner Corners",
+                "city": "Wilsonborough",
+                "state": "NC",
+                "country": "USA",
+                "zipcode": "63869",
+                "latitude": "41.84364",
+                "longitude": "-87.71255"
+            },
+            "price_usd": 4553759.84,
+            "price_eth": 2.25,
+            "last_updated": "1991-12-21T21:59:23"
+        },
+        {
+            "property_id": "PROP58888",
+            "location": {
+                "address": "941 Alan Club",
+                "city": "Christineberg",
+                "state": "DC",
+                "country": "USA",
+                "zipcode": "12455",
+                "latitude": "29.65163",
+                "longitude": "-82.32483"
+            },
+            "price_usd": 1031707.91,
+            "price_eth": 0.67,
+            "last_updated": "1993-07-24T12:33:31"
+        },
+        {
+            "property_id": "PROP79430",
+            "location": {
+                "address": "66081 Douglas Mountains Apt. 270",
+                "city": "Tiffanyshire",
+                "state": "VA",
+                "country": "USA",
+                "zipcode": "13170",
+                "latitude": "40.93121",
+                "longitude": "-73.89875"
+            },
+            "price_usd": 3867926.48,
+            "price_eth": 2.74,
+            "last_updated": "1973-03-31T16:25:38"
+        },
+        {
+            "property_id": "PROP10490",
+            "location": {
+                "address": "7468 Matthew Well Apt. 271",
+                "city": "Hancockmouth",
+                "state": "HI",
+                "country": "USA",
+                "zipcode": "64172",
+                "latitude": "41.24255",
+                "longitude": "-82.61573"
+            },
+            "price_usd": 3824443.18,
+            "price_eth": 0.8,
+            "last_updated": "1995-12-03T10:03:57"
+        },
+        {
+            "property_id": "PROP28615",
+            "location": {
+                "address": "004 Maria Turnpike",
+                "city": "Ayersville",
+                "state": "SC",
+                "country": "USA",
+                "zipcode": "07670",
+                "latitude": "44.27804",
+                "longitude": "-88.27205"
+            },
+            "price_usd": 2068963.3,
+            "price_eth": 1.77,
+            "last_updated": "1994-11-22T02:00:16"
+        },
+        {
+            "property_id": "PROP36298",
+            "location": {
+                "address": "7954 Rachel Oval Suite 787",
+                "city": "Hughesville",
+                "state": "MI",
+                "country": "USA",
+                "zipcode": "93829",
+                "latitude": "26.91756",
+                "longitude": "-82.07842"
+            },
+            "price_usd": 677197.61,
+            "price_eth": 0.55,
+            "last_updated": "1997-12-22T04:33:43"
+        },
+        {
+            "property_id": "PROP10230",
+            "location": {
+                "address": "60008 Davis Shoal",
+                "city": "Codytown",
+                "state": "ND",
+                "country": "USA",
+                "zipcode": "35091",
+                "latitude": "32.42067",
+                "longitude": "-104.22884"
+            },
+            "price_usd": 4640024.89,
+            "price_eth": 1.95,
+            "last_updated": "2016-04-24T03:04:31"
+        },
+        {
+            "property_id": "PROP92355",
+            "location": {
+                "address": "9158 Brown Points Suite 693",
+                "city": "Stacyfurt",
+                "state": "TX",
+                "country": "USA",
+                "zipcode": "51225",
+                "latitude": "41.8542",
+                "longitude": "-87.66561"
+            },
+            "price_usd": 3547986.34,
+            "price_eth": 1.33,
+            "last_updated": "2019-06-05T23:47:43"
+        },
+        {
+            "property_id": "PROP36749",
+            "location": {
+                "address": "7579 James Parkways",
+                "city": "New Elizabeth",
+                "state": "AR",
+                "country": "USA",
+                "zipcode": "59676",
+                "latitude": "39.32288",
+                "longitude": "-76.72803"
+            },
+            "price_usd": 2788309.14,
+            "price_eth": 1.73,
+            "last_updated": "2021-03-21T10:28:04"
+        },
+        {
+            "property_id": "PROP29207",
+            "location": {
+                "address": "52607 Brian Tunnel",
+                "city": "Jenniferberg",
+                "state": "NJ",
+                "country": "USA",
+                "zipcode": "55062",
+                "latitude": "40.72371",
+                "longitude": "-73.95097"
+            },
+            "price_usd": 709904.06,
+            "price_eth": 1.27,
+            "last_updated": "2006-08-04T08:02:39"
+        },
+        {
+            "property_id": "PROP40427",
+            "location": {
+                "address": "288 Baker Prairie",
+                "city": "Brownbury",
+                "state": "FL",
+                "country": "USA",
+                "zipcode": "18026",
+                "latitude": "33.03699",
+                "longitude": "-117.29198"
+            },
+            "price_usd": 1740787.16,
+            "price_eth": 1.23,
+            "last_updated": "1977-11-02T23:50:00"
+        },
+        {
+            "property_id": "PROP29532",
+            "location": {
+                "address": "97915 Angela Isle Suite 556",
+                "city": "Walterborough",
+                "state": "NE",
+                "country": "USA",
+                "zipcode": "70129",
+                "latitude": "29.84576",
+                "longitude": "-90.10674"
+            },
+            "price_usd": 4241110.65,
+            "price_eth": 1.59,
+            "last_updated": "1997-11-19T05:46:35"
+        },
+        {
+            "property_id": "PROP30884",
+            "location": {
+                "address": "40252 Black Club Suite 407",
+                "city": "New Jake",
+                "state": "OR",
+                "country": "USA",
+                "zipcode": "40939",
+                "latitude": "40.72371",
+                "longitude": "-73.95097"
+            },
+            "price_usd": 727621.07,
+            "price_eth": 0.84,
+            "last_updated": "1991-07-11T00:16:42"
+        },
+        {
+            "property_id": "PROP64711",
+            "location": {
+                "address": "115 Bright Centers",
+                "city": "Johntown",
+                "state": "RI",
+                "country": "USA",
+                "zipcode": "05705",
+                "latitude": "33.7207",
+                "longitude": "-116.21677"
+            },
+            "price_usd": 1358789.02,
+            "price_eth": 1.3,
+            "last_updated": "1983-03-15T06:14:34"
+        },
+        {
+            "property_id": "PROP16702",
+            "location": {
+                "address": "813 Shelton Rapids",
+                "city": "Paulborough",
+                "state": "KS",
+                "country": "USA",
+                "zipcode": "29319",
+                "latitude": "41.0051",
+                "longitude": "-73.78458"
+            },
+            "price_usd": 238169.56,
+            "price_eth": 1.66,
+            "last_updated": "1989-01-15T18:19:43"
+        },
+        {
+            "property_id": "PROP76666",
+            "location": {
+                "address": "45800 Moore Unions Apt. 108",
+                "city": "Walkerport",
+                "state": "WA",
+                "country": "USA",
+                "zipcode": "65260",
+                "latitude": "40.68066",
+                "longitude": "-73.47429"
+            },
+            "price_usd": 1238659.49,
+            "price_eth": 1.26,
+            "last_updated": "2018-12-10T06:35:39"
+        },
+        {
+            "property_id": "PROP38300",
+            "location": {
+                "address": "897 Williams Isle Suite 217",
+                "city": "North Timothy",
+                "state": "OR",
+                "country": "USA",
+                "zipcode": "56372",
+                "latitude": "33.03699",
+                "longitude": "-117.29198"
+            },
+            "price_usd": 1719195.13,
+            "price_eth": 0.84,
+            "last_updated": "1973-10-30T11:49:51"
+        },
+        {
+            "property_id": "PROP20299",
+            "location": {
+                "address": "3718 Brett Alley",
+                "city": "East Oscar",
+                "state": "AR",
+                "country": "USA",
+                "zipcode": "57866",
+                "latitude": "38.70734",
+                "longitude": "-77.02303"
+            },
+            "price_usd": 2496438.88,
+            "price_eth": 0.91,
+            "last_updated": "1985-12-02T04:10:23"
+        },
+        {
+            "property_id": "PROP38622",
+            "location": {
+                "address": "977 Saunders Hill Apt. 674",
+                "city": "Amyside",
+                "state": "CT",
+                "country": "USA",
+                "zipcode": "37527",
+                "latitude": "27.09978",
+                "longitude": "-82.45426"
+            },
+            "price_usd": 4200891.42,
+            "price_eth": 1.5,
+            "last_updated": "2009-07-08T06:16:47"
+        },
+        {
+            "property_id": "PROP73200",
+            "location": {
+                "address": "6250 Lori Cape",
+                "city": "Port Bryan",
+                "state": "LA",
+                "country": "USA",
+                "zipcode": "17844",
+                "latitude": "47.64995",
+                "longitude": "-117.23991"
+            },
+            "price_usd": 3526625.74,
+            "price_eth": 2.98,
+            "last_updated": "1995-11-06T05:57:08"
+        },
+        {
+            "property_id": "PROP42613",
+            "location": {
+                "address": "7148 Knight Courts Apt. 652",
+                "city": "Mataview",
+                "state": "CA",
+                "country": "USA",
+                "zipcode": "15239",
+                "latitude": "40.65995",
+                "longitude": "-111.99633"
+            },
+            "price_usd": 2763727.62,
+            "price_eth": 0.43,
+            "last_updated": "2019-01-22T08:11:31"
+        },
+        {
+            "property_id": "PROP20292",
+            "location": {
+                "address": "6072 Reyes Plain Apt. 805",
+                "city": "Griffithbury",
+                "state": "VA",
+                "country": "USA",
+                "zipcode": "18569",
+                "latitude": "42.4251",
+                "longitude": "-71.06616"
+            },
+            "price_usd": 1048161.57,
+            "price_eth": 1.04,
+            "last_updated": "1971-11-05T13:57:22"
+        },
+        {
+            "property_id": "PROP22143",
+            "location": {
+                "address": "1756 Garrett Creek Apt. 846",
+                "city": "South Bradley",
+                "state": "LA",
+                "country": "USA",
+                "zipcode": "06302",
+                "latitude": "34.25807",
+                "longitude": "-88.70464"
+            },
+            "price_usd": 564188.53,
+            "price_eth": 1.94,
+            "last_updated": "1989-10-30T23:49:26"
+        },
+        {
+            "property_id": "PROP87763",
+            "location": {
+                "address": "158 Knight Coves Apt. 404",
+                "city": "Jordanport",
+                "state": "NE",
+                "country": "USA",
+                "zipcode": "17702",
+                "latitude": "42.7392",
+                "longitude": "-84.62081"
+            },
+            "price_usd": 3413261.2,
+            "price_eth": 0.33,
+            "last_updated": "1990-11-09T05:11:37"
+        },
+        {
+            "property_id": "PROP71556",
+            "location": {
+                "address": "4042 Vasquez Tunnel Suite 611",
+                "city": "Robertport",
+                "state": "MI",
+                "country": "USA",
+                "zipcode": "27609",
+                "latitude": "34.14251",
+                "longitude": "-118.25508"
+            },
+            "price_usd": 1543411.96,
+            "price_eth": 1.95,
+            "last_updated": "2007-07-01T10:13:38"
+        },
+        {
+            "property_id": "PROP59992",
+            "location": {
+                "address": "387 Salazar Harbor Apt. 950",
+                "city": "Lake Thomas",
+                "state": "SC",
+                "country": "USA",
+                "zipcode": "13860",
+                "latitude": "39.09112",
+                "longitude": "-94.41551"
+            },
+            "price_usd": 4280152.28,
+            "price_eth": 1.97,
+            "last_updated": "1970-08-19T11:15:17"
+        },
+        {
+            "property_id": "PROP11673",
+            "location": {
+                "address": "4777 Adam Glen Apt. 574",
+                "city": "Welchchester",
+                "state": "WY",
+                "country": "USA",
+                "zipcode": "73289",
+                "latitude": "40.94065",
+                "longitude": "-73.99681"
+            },
+            "price_usd": 1249670.34,
+            "price_eth": 0.2,
+            "last_updated": "2020-05-01T01:40:19"
+        },
+        {
+            "property_id": "PROP60123",
+            "location": {
+                "address": "76279 Francisco Crescent Suite 559",
+                "city": "West Nicholeberg",
+                "state": "MA",
+                "country": "USA",
+                "zipcode": "40393",
+                "latitude": "42.55308",
+                "longitude": "-87.93341"
+            },
+            "price_usd": 3117673.35,
+            "price_eth": 1.12,
+            "last_updated": "1977-01-28T04:55:54"
+        },
+        {
+            "property_id": "PROP40871",
+            "location": {
+                "address": "2942 Deborah Skyway",
+                "city": "West Tracy",
+                "state": "TX",
+                "country": "USA",
+                "zipcode": "91334",
+                "latitude": "40.68066",
+                "longitude": "-73.47429"
+            },
+            "price_usd": 239823.0,
+            "price_eth": 1.45,
+            "last_updated": "1999-08-12T20:18:07"
+        },
+        {
+            "property_id": "PROP89976",
+            "location": {
+                "address": "4216 Hannah Fork",
+                "city": "Coreyside",
+                "state": "PA",
+                "country": "USA",
+                "zipcode": "56754",
+                "latitude": "42.55308",
+                "longitude": "-87.93341"
+            },
+            "price_usd": 3699025.38,
+            "price_eth": 2.64,
+            "last_updated": "2009-10-11T11:29:06"
+        },
+        {
+            "property_id": "PROP99345",
+            "location": {
+                "address": "60819 Johnson Tunnel",
+                "city": "Annaport",
+                "state": "UT",
+                "country": "USA",
+                "zipcode": "57273",
+                "latitude": "41.6764",
+                "longitude": "-91.58045"
+            },
+            "price_usd": 675240.46,
+            "price_eth": 1.04,
+            "last_updated": "1974-09-12T18:15:29"
+        },
+        {
+            "property_id": "PROP71692",
+            "location": {
+                "address": "7114 Holland Forest Suite 744",
+                "city": "Thompsonmouth",
+                "state": "NE",
+                "country": "USA",
+                "zipcode": "82540",
+                "latitude": "47.4943",
+                "longitude": "-122.24092"
+            },
+            "price_usd": 2923776.78,
+            "price_eth": 1.2,
+            "last_updated": "2012-12-16T01:35:11"
+        },
+        {
+            "property_id": "PROP55927",
+            "location": {
+                "address": "43567 Stephanie Plains",
+                "city": "Marymouth",
+                "state": "HI",
+                "country": "USA",
+                "zipcode": "28178",
+                "latitude": "41.27621",
+                "longitude": "-72.86843"
+            },
+            "price_usd": 1757870.68,
+            "price_eth": 0.92,
+            "last_updated": "1974-01-08T14:21:47"
+        },
+        {
+            "property_id": "PROP91631",
+            "location": {
+                "address": "375 Hayden Burg",
+                "city": "West Lisamouth",
+                "state": "LA",
+                "country": "USA",
+                "zipcode": "16569",
+                "latitude": "39.72943",
+                "longitude": "-104.83192"
+            },
+            "price_usd": 1281127.36,
+            "price_eth": 0.33,
+            "last_updated": "2020-10-29T21:01:55"
+        },
+        {
+            "property_id": "PROP13756",
+            "location": {
+                "address": "7740 Whitehead Ridges Apt. 224",
+                "city": "Albertmouth",
+                "state": "IN",
+                "country": "USA",
+                "zipcode": "94207",
+                "latitude": "45.0408",
+                "longitude": "-93.263"
+            },
+            "price_usd": 4246339.9,
+            "price_eth": 0.34,
+            "last_updated": "2022-09-20T17:53:46"
+        },
+        {
+            "property_id": "PROP25679",
+            "location": {
+                "address": "59729 Spencer Loaf",
+                "city": "Gloriaview",
+                "state": "CO",
+                "country": "USA",
+                "zipcode": "79825",
+                "latitude": "38.06084",
+                "longitude": "-97.92977"
+            },
+            "price_usd": 2982729.46,
+            "price_eth": 2.6,
+            "last_updated": "2014-02-07T04:23:16"
+        },
+        {
+            "property_id": "PROP87492",
+            "location": {
+                "address": "99609 Adam Village Suite 622",
+                "city": "South Charles",
+                "state": "RI",
+                "country": "USA",
+                "zipcode": "64084",
+                "latitude": "26.2173",
+                "longitude": "-80.22588"
+            },
+            "price_usd": 3346922.17,
+            "price_eth": 1.14,
+            "last_updated": "2019-03-05T18:37:05"
+        },
+        {
+            "property_id": "PROP26233",
+            "location": {
+                "address": "9815 Bentley Passage Suite 666",
+                "city": "Smithton",
+                "state": "CA",
+                "country": "USA",
+                "zipcode": "28302",
+                "latitude": "40.94065",
+                "longitude": "-73.99681"
+            },
+            "price_usd": 1851349.17,
+            "price_eth": 1.38,
+            "last_updated": "1974-03-18T23:44:33"
+        },
+        {
+            "property_id": "PROP65225",
+            "location": {
+                "address": "37202 Turner Trace",
+                "city": "Johnberg",
+                "state": "MI",
+                "country": "USA",
+                "zipcode": "07475",
+                "latitude": "32.42067",
+                "longitude": "-104.22884"
+            },
+            "price_usd": 4359516.33,
+            "price_eth": 0.23,
+            "last_updated": "2024-12-09T20:54:59"
+        },
+        {
+            "property_id": "PROP79497",
+            "location": {
+                "address": "14477 Smith Motorway",
+                "city": "North Josephchester",
+                "state": "NH",
+                "country": "USA",
+                "zipcode": "18285",
+                "latitude": "40.72816",
+                "longitude": "-74.07764"
+            },
+            "price_usd": 4133026.9,
+            "price_eth": 2.52,
+            "last_updated": "2022-04-01T09:59:47"
+        },
+        {
+            "property_id": "PROP63382",
+            "location": {
+                "address": "3712 Pratt Points",
+                "city": "Johnsonshire",
+                "state": "LA",
+                "country": "USA",
+                "zipcode": "93996",
+                "latitude": "33.03699",
+                "longitude": "-117.29198"
+            },
+            "price_usd": 522925.67,
+            "price_eth": 0.88,
+            "last_updated": "2016-11-16T19:26:21"
+        },
+        {
+            "property_id": "PROP10560",
+            "location": {
+                "address": "9512 Campos Fall Suite 753",
+                "city": "Lake Kristin",
+                "state": "NH",
+                "country": "USA",
+                "zipcode": "43303",
+                "latitude": "39.00622",
+                "longitude": "-77.4286"
+            },
+            "price_usd": 1624805.37,
+            "price_eth": 2.41,
+            "last_updated": "1991-12-07T09:28:17"
+        },
+        {
+            "property_id": "PROP68418",
+            "location": {
+                "address": "726 Ramos Motorway Suite 733",
+                "city": "Cindyhaven",
+                "state": "MO",
+                "country": "USA",
+                "zipcode": "06585",
+                "latitude": "33.76446",
+                "longitude": "-117.79394"
+            },
+            "price_usd": 1706619.68,
+            "price_eth": 2.1,
+            "last_updated": "2006-03-27T06:33:05"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17"
+  },
+  "dependencies": {
+    "ethers": "^6.13.5",
+    "node-fetch": "^3.3.2"
+  },
+
+  "type": "module"
+
+}
